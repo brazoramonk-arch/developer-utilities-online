@@ -8,6 +8,16 @@
 
 This repository documents resources related to free online calculators in the relevant niche. The main tool referenced is hosted at [https://bytepane.com/](https://bytepane.com/).
 
+## Try the Calculators
+
+Free, no-signup developer tools that use the data sources documented here:
+
+- [JSON Formatter](https://bytepane.com/json-formatter/)
+- [Code Screenshot Tool](https://bytepane.com/code-screenshot/)
+- [Base64 Encoder/Decoder](https://bytepane.com/base64/)
+- [Cron Builder](https://bytepane.com/cron-builder/)
+- [Hash Generator](https://bytepane.com/hash-generator/)
+
 ## Data Sources
 
 The calculators referenced use authoritative data sources:
